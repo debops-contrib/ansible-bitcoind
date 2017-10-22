@@ -31,7 +31,7 @@ ansible-galaxy install debops-contrib.bitcoind
 More information about `debops-contrib.bitcoind` can be found in the
 [official debops-contrib.bitcoind documentation](https://debops-contrib.readthedocs.io/en/latest/ansible/roles/ansible-bitcoind/docs/).
 
-## Contributing
+### Contributing
 
 Please note that this repository is not the upstream repository where changes should be contributed to.
 Head over to https://github.com/debops/debops where you can find the contents of this repo and where changes are welcome.
